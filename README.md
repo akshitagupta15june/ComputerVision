@@ -5,3 +5,7 @@ It will contain all assignments.
 Operations Available-:
 
 Template Matching
+
+Haarcascade Smile
+
+Image Masking
