@@ -7,3 +7,5 @@ Operations Available-:
 Template Matching
 
 Haarcascade Smile
+
+Image Masking
