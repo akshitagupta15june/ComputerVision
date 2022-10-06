@@ -1,8 +1,4 @@
-
-This repository will contain computer vision codes
-
-contours Detection
-face detection
-Body detection
-
-Live face detection
+# This repository will contain computer vision codes
+* face detection
+* Body detection
+* Live face detection
