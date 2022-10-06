@@ -1,1 +1,2 @@
 - [Akshita Gupta](akshitagupta15june)
+- [Anamika Pal](anamika-pal)
