@@ -3,11 +3,11 @@
 * Body detection
 * Live face detection
 
-<b>IMAGE</b>
+### Image
 
 ![Image of screenshot](https://github.com/singhanshika311/ComputerVision/blob/master/Image/opencv.png)
 
-<b>ABOUT</b>
+### About
 
 OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library. OpenCV was built to provide a common infrastructure for computer vision applications and to accelerate the use of machine perception in the commercial products. Being an Apache 2 licensed product, OpenCV makes it easy for businesses to utilize and modify the code.
 
@@ -24,3 +24,12 @@ Please read the [contribution guidelines](https://github.com/opencv/opencv/wiki/
 * Include tests and documentation;
 * Clean up "oops" commits before submitting;
 * Follow the [coding style guide](https://github.com/opencv/opencv/wiki/Coding_Style_Guide).
+
+### Update the repository documentation
+
+In order to keep a clean overview containing all contributed modules, the following files need to be created/adapted:
+
+1. Update the README.md file under the modules folder. Here, you add your model with a single-line description.
+
+2. Add a README.md inside your own module folder. This README explains which functionality (separate functions) is available, links to the corresponding samples, and explains in somewhat more detail what the module is expected to do. If any extra requirements are needed to build the module without problems, add them here also.
+
